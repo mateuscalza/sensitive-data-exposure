@@ -21,3 +21,19 @@ Usar HTTPS é o mínimo para que pos pacotes de rede não fiquem expostos. Um pr
 
 ![Inspeção de pacotes de rede com Wireshark](/images/wireshark.png)
 
+## Outros problemas possíveis
+
+Outros problemas podem 
+
+ - Falta de firewall
+ - Falta de rate limit
+ - Senhas fracas, especialmente administrativas
+ - Uso de IDs sequenciais
+ - Permissões de sistema ou de banco de dados mal organizados
+ - CORS mal configurado
+ - Cabeçalho X-Frame-Options mal configurado
+ - SSL não configurado para o banco de dados
+ - Injeção de script (XSS)
+ - CDN mal configurado
+ - Servidores e datacenters mal administrados
+ - Sistemas operacionais não atualizados
