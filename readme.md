@@ -58,3 +58,4 @@ Outros problemas
  - pgcrypto (para PostgreSQL) - https://www.postgresql.fastware.com/blog/further-protect-your-data-with-pgcrypto
  - helmet (para NodeJS) - https://www.npmjs.com/package/helmet
  - bcryptjs (para NodeJS) - https://www.npmjs.com/package/bcryptjs
+ - zxcvbn (para NodeJS) - https://github.com/dropbox/zxcvbn
