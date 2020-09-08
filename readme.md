@@ -43,6 +43,7 @@ Outros problemas
  - Não expirar tokens e cookies
  - Manter senhas padrão
  - Banco de dados com binding público
+ - Keys, tokens e secrets que ficam em meio à código-fonte público
 
 ## Ferramentas úteis
 
