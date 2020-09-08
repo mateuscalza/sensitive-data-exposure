@@ -52,6 +52,7 @@ Outros problemas
  - Cain and Abel Software
  - NMAP
  - Cloudflare (firewall + ssl + rate limiter)
+ - Fail2ban
  
  ## Bibliotecas e extensões
  
