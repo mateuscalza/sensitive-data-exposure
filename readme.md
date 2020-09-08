@@ -34,6 +34,6 @@ Outros problemas podem
  - Cabeçalho X-Frame-Options mal configurado
  - SSL não configurado para o banco de dados
  - Injeção de script (XSS)
- - CDN mal configurado
+ - Serviços, como a Cloudflare, que estejam mal configurados
  - Servidores e datacenters mal administrados
  - Sistemas operacionais não atualizados
