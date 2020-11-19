@@ -54,9 +54,17 @@ Outros problemas
  - Cloudflare (firewall + ssl + rate limiter)
  - Fail2ban
  
- ## Bibliotecas e extensões
+## Bibliotecas e extensões
  
  - pgcrypto (para PostgreSQL) - https://www.postgresql.fastware.com/blog/further-protect-your-data-with-pgcrypto
  - helmet (para NodeJS) - https://www.npmjs.com/package/helmet
  - bcryptjs (para NodeJS) - https://www.npmjs.com/package/bcryptjs
  - zxcvbn (para NodeJS) - https://github.com/dropbox/zxcvbn
+ 
+## Contribuidores
+
+- Aline Gemelli
+- Alex Bevilaqua
+- Bruno Cesca
+- Mateus Calza
+
